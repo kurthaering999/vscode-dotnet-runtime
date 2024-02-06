@@ -3,7 +3,7 @@
 *  The .NET Foundation licenses this file to you under the MIT license.
 *--------------------------------------------------------------------------------------------*/
 
-import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider';
+import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider.1';
 
 export class SdkInstallationDirectoryProvider extends IInstallationDirectoryProvider {
     public getInstallDir(installKey: string): string {

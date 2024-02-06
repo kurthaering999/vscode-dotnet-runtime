@@ -13,7 +13,7 @@ import { IDotnetAcquireContext } from '../../IDotnetAcquireContext';
 import { IAcquisitionWorkerContext } from '../../Acquisition/IAcquisitionWorkerContext';
 import { IEventStream } from '../../EventStream/EventStream';
 import { IUtilityContext } from '../../Utils/IUtilityContext';
-import { IInstallationDirectoryProvider } from '../../Acquisition/IInstallationDirectoryProvider';
+import { IInstallationDirectoryProvider } from '../../Acquisition/IInstallationDirectoryProvider.1';
 
 const standardTimeoutTime = 100000;
 

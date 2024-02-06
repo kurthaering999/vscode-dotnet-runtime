@@ -5,7 +5,7 @@
 import { IDotnetAcquireContext } from '../IDotnetAcquireContext';
 import { IEventStream } from '../EventStream/EventStream';
 import { IExtensionState } from '../IExtensionState';
-import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider';
+import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider.1';
 import { IInstallationValidator } from './IInstallationValidator';
 
 export interface IAcquisitionWorkerContext

@@ -4,7 +4,7 @@
 *--------------------------------------------------------------------------------------------*/
 
 import * as path from 'path';
-import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider';
+import { IInstallationDirectoryProvider } from './IInstallationDirectoryProvider.1';
 
 export class RuntimeInstallationDirectoryProvider extends IInstallationDirectoryProvider {
     public getInstallDir(installKey: string): string {
